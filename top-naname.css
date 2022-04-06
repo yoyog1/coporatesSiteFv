@@ -165,7 +165,7 @@ html body main div.text-container div.inner p {
 html body main div.bgImg {
   width: 60%;
   height: 500px;
-  background-image: url("/images/859078_s.jpg");
+  background-image: url("images/859078_s.jpg");
   background-size: cover;
 }
 /*# sourceMappingURL=top-naname.css.map */
